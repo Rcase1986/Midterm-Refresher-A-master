@@ -1,11 +1,11 @@
 /* Stylesheet */
 
-p{
-	font-family: 'Montserrat', sans-serif;
+body{
+	background: url('../img/bg.png');
 	}
 
-footer{
-	background:red;
+p{
+	font-family: 'Montserrat', sans-serif;
 	}
 
 /* Help Class to Show Grid */
