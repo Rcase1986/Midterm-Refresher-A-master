@@ -1,6 +1,8 @@
 /* Stylesheet */
 
-
+footer{
+	background:red;
+	}
 
 /* Help Class to Show Grid */
 .showgrid {
